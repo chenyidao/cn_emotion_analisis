@@ -10,6 +10,8 @@
 ```
 ### 1.2 语料：
 谭松波老师的酒店评论语料
+百度网盘链接：https://pan.baidu.com/s/1H-nbHfZlOFxOdICvIaVCAQ 
+提取码：sq7r 
 
 ## 二.	运行环境
 ```
@@ -26,14 +28,10 @@ tensorflow
 3.4 建立权重的存储点，保存模型
 3.5 结合flask框架进行结果的前端显示
 ```
-## 四.	关键部分
-4.1模型构建过程总结：
  
-## 五.	参考资料
+## 四.	参考资料
 ```
 网易云deeplearning.ai课程
 https://zhuanlan.zhihu.com/p/26306795
 ````
-
-## 六.	实验结果
 
